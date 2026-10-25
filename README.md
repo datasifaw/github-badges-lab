@@ -9,3 +9,5 @@ Je découvre les Pull Requests et les branches Git.
 Objectif : comprendre le fonctionnement du merge.
 
 Merge
+
+MERGE 1 
